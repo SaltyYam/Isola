@@ -9,6 +9,6 @@ a player cannot move to a tile that has been blocked or onto a tile that the opp
 
 The game concludes when one or both of the players can no longer move - every single adjacent tile is blocked.
 
-I implemented the AI using the Minimax algorithem, whilst also using Alpha Beta pruning and A transposition table.
+I implemented the AI using the Minimax algorithem, whilst also using Alpha Beta pruning and A Transposition Table.
 
 The zip file contains the java project of the game.
